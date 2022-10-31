@@ -1,0 +1,3 @@
+<template>
+  <global-footer />
+</template>
