@@ -158,14 +158,19 @@ PoCは手を抜く理由にされがち
 
 - 最終的に開発チームに力が流れてくる
 - 開発チームで抗うしかない
-- 開発チームの**規律**
+
+---
+layout: section
+---
+
+# 開発チームの**規律**
 
 ---
 layout: iframe
 url: https://kotobank.jp/word/%E8%A6%8F%E5%BE%8B-480311
 ---
 
-# 規律
+# 規律とは
 
 ---
 layout: section
