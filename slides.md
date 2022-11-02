@@ -43,6 +43,43 @@ layout: intro
 ## 自己紹介
 
 ---
+layout: section
+---
+
+# 現地参加の皆さん、
+# 羨ましいなー
+
+---
+layout: iframe-left
+url: https://www.kobe-u.ac.jp/archive/research/20121025_1.html
+---
+
+もちろん <br />
+エゾアカヤマアリの
+スーパーコロニー <br />
+ですよね！
+
+---
+layout: two-cols
+---
+
+<tweet id="901363546545569794" scale="0.6"/>
+
+::right::
+
+ヒアリと違います。 <br />
+安心してください。
+
+- 大きさが違います
+- 北海道に住めません
+
+---
+layout: section
+---
+
+# 本題に戻ります
+
+---
 
 # この数年で経験した開発
 
