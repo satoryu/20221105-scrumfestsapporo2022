@@ -176,6 +176,13 @@ url: https://kotobank.jp/word/%E8%A6%8F%E5%BE%8B-480311
 layout: section
 ---
 
+# では、規律として
+# 何をまずやるべきなのか？
+
+---
+layout: section
+---
+
 # デモを作る
 
 ---
