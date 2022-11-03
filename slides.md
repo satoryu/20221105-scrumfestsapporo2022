@@ -35,6 +35,81 @@ Photo by [Jason Goodman](https://unsplash.com/@jasongoodman_youxventures?utm_sou
 </div>
 
 ---
+layout: intro
+---
+
+# お前、誰よ？
+
+## 自己紹介
+
+---
+layout: image-left
+image: /satoryu.jpeg
+---
+
+# さとうたつや
+
+プログラマー。
+
+- GitHub: [@satoryu](https://github.com/satoryu)
+- Twitter: [@sato_ryu](https://twitter.com/sato_ryu)
+
+## 趣味
+
+- [BABYMETAL](https://babymetal.com/)
+- [武藤彩未](http://ayamimuto.com/)
+- アリの飼育
+- 駄洒落
+
+---
+layout: iframe-right
+url: https://www.satoryu.com/business/
+---
+
+# 個人事業主
+
+- Webアプリケーションの開発
+- プログラミング学習の支援
+
+お仕事、お待ちしてます！
+
+https://www.satoryu.com/
+
+---
+
+# Silver Bullet Club所属
+
+Silver Bullet Clubというエンジニアチームに所属しています。
+
+![Silver Bullet Clubロゴ](/silverbulletclub_banner.png)
+
+---
+layout: iframe
+url: https://hololab.co.jp/
+---
+
+[![](https://hololab.co.jp/assets/img/common/logo.svg)](https://hololab.co.jp/)
+
+<!--
+
+-->
+
+---
+layout: image-right
+image: /ants.jpeg
+---
+
+# アリの飼育
+
+女王アリを捕まえて、育てています。
+
+- クロヤマアリ
+- トビイロシワアリ
+- キイロシリアゲアリ
+
+クロオオアリを捕まえたい。
+
+---
 layout: section
 ---
 
@@ -59,19 +134,12 @@ layout: two-cols
 
 ::right::
 
-ヒアリと違います。 <br />
+# ヒアリではありません！
+
 安心してください。
 
 - 大きさが違います
 - 北海道に住めません
-
----
-layout: intro
----
-
-# お前、誰よ？
-
-## 自己紹介
 
 ---
 layout: section
