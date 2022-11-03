@@ -26,7 +26,9 @@ css: unocss
 # 受託開発受注のための <br /> ちょっとしたコツ
 ## 〜「何でもかんでもやります」じゃなく、まずはデモ〜
 
-### SATO Tatsuya, Scrum Fest Sapporo 2022, 2022.11.05
+
+### SATO Tatsuya
+### Scrum Fest Sapporo 2022
 
 <div class="absolute bottom-0 right-0 px-1 text-xs">
 
@@ -376,6 +378,69 @@ image: https://files.speakerdeck.com/presentations/374d04790e8c4ec6aa227242c370a
 layout: section
 ---
 
+# 最近の事例
+
+---
+layout: two-cols
+---
+
+# お客さんからの要求
+
+- 外部サービスとBIツールとを自動連携したい
+- 技術的制約
+  - 外部サービスは固定
+  - ざっくり「クラウドでやりたい」
+- ユーザーはまだ定まってない
+
+::right::
+
+## 現状
+
+<div class="flex justify-center h-4/5">
+
+<img src="/request.excalidraw.png" />
+
+</div>
+
+---
+
+# デモのシナリオを考える
+
+- 想定ユーザーを一旦固定
+- その人が気にしそうなことを調べる
+- ドメイン知識がある人が近くにいるのでヒアリング
+- 正確であることより、何かが決まることが大事
+
+---
+
+# 見えるところから作る
+
+- 想定ユーザーが触る部分から作る
+  - データは仮のものでも評価できる
+- BIツールのデータ投入、ダッシュボード作りから
+
+---
+layout: two-cols
+---
+
+# 技術的に不安なところを触っておく
+
+- 未経験の部分から着手
+- 経験がある部分（クラウド環境）は後回し
+- 最低限触れるものが完成
+
+::right::
+
+<div class="flex justify-center h-4/5">
+
+<img src="/demo-app.excalidraw.png" />
+
+</div>
+
+---
+layout: section
+---
+
 # まとめ
 
 ---
@@ -416,7 +481,7 @@ layout: quote
 layout: section
 ---
 
-# 要件定義書よりも <br /> デモを
+# 動くソフトウェアとして、まずデモを
 
 ---
 layout: references
