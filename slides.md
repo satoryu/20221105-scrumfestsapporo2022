@@ -320,10 +320,15 @@ layout: section
 # 何をまずやるべきなのか？
 
 ---
-layout: section
+layout: image
+image: https://source.unsplash.com/9OKGEVJiTKk
 ---
 
 # デモを作る
+
+<div class="p-1 absolute bottom-0 left-0 bg-gray-500 bg-opacity-30 text-xs">
+  Photo by <a href="https://unsplash.com/@joszczepanska?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Jo Szczepanska</a> on <a href="https://unsplash.com/s/photos/craft?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+</div>
 
 ---
 
