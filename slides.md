@@ -469,6 +469,15 @@ layout: two-cols
 </div>
 
 ---
+
+# デモをする
+
+- 作ったものは実際の想定とは違った
+- けれど、議論のスタートができた
+  - 「ここに○○は表示できないか？」
+  - 「これは一度、○○さんたちに見てもらいましょう」
+
+---
 layout: section
 ---
 
@@ -513,6 +522,17 @@ layout: section
 ---
 
 # 動くソフトウェアとして、まずデモを
+
+---
+layout: image
+image: https://source.unsplash.com/G8wvNzm_fK0
+---
+
+# 初手、デモ
+
+<div class="p-1 absolute bottom-0 left-0 bg-gray-500 bg-opacity-30 text-xs">
+Photo by <a href="https://unsplash.com/@dimage_carlos?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Carlos Esteves</a> on <a href="https://unsplash.com/s/photos/chess?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+</div>
 
 ---
 layout: references
