@@ -499,17 +499,25 @@ layout: section
 # 受託開発は
 # アジャイル開発が難しい？
 
----
-
-# 受託こそアジャイル開発をすべき
-
-![](/agilemanifest.png)
 
 ---
 layout: section
 ---
 
 # どう始める？
+
+---
+layout: image
+image: /agilemanifest.png
+---
+
+# アジャイルソフトウェア開発宣言
+
+<div class="p-1 absolute bottom-0 left-0 bg-gray-500 bg-opacity-30 text-xs">
+
+  [アジャイルソフトウェア開発宣言](https://agilemanifesto.org/iso/ja/manifesto.html)
+
+</div>
 
 ---
 layout: quote
