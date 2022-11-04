@@ -40,6 +40,31 @@ Photo by [Jason Goodman](https://unsplash.com/@jasongoodman_youxventures?utm_sou
 layout: intro
 ---
 
+# 今日伝えたいこと
+
+---
+layout: intro
+---
+
+# 受託開発で
+# アジャイル開発を
+# している皆さん
+
+---
+layout: image
+image: https://source.unsplash.com/G8wvNzm_fK0
+---
+
+# 初手、デモ
+
+<div class="p-1 absolute bottom-0 left-0 bg-gray-500 bg-opacity-30 text-xs">
+Photo by <a href="https://unsplash.com/@dimage_carlos?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Carlos Esteves</a> on <a href="https://unsplash.com/s/photos/chess?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+</div>
+
+---
+layout: intro
+---
+
 # お前、誰よ？
 
 ## 自己紹介
@@ -60,6 +85,7 @@ image: /satoryu.jpeg
 
 - [BABYMETAL](https://babymetal.com/)
 - [武藤彩未](http://ayamimuto.com/)
+- [@onefive](https://onefive-web.jp/)
 - アリの飼育
 - 駄洒落
 
@@ -414,7 +440,7 @@ layout: two-cols
 - 想定ユーザーを一旦固定
 - その人が気にしそうなことを調べる
 - ドメイン知識がある人が近くにいるのでヒアリング
-- 正確であることより、何かが決まることが大事
+- 正確であることより、何かが決めることが大事
 
 ---
 
