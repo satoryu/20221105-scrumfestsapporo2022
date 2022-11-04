@@ -43,6 +43,10 @@ layout: intro
 # 今日伝えたいこと
 
 ---
+
+<tweet id="1585594501497688066" />
+
+---
 layout: intro
 ---
 
